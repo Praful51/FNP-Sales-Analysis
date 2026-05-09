@@ -24,6 +24,8 @@ The dashboard includes interactive filters for Order Date, Delivery Date, and Oc
 
 **Dashboard:**
 
+![fnp db](image/fnp_db.png)
+
 
 **Skills demonstrated through this project:**
 
